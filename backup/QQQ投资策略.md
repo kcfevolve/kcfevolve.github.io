@@ -1,4 +1,4 @@
-**不要買保險、不要買年金、不要買債券**
+**不要買保險、不要買年金、不要買債券![image](https://github.com/user-attachments/assets/5ff30fcb-71a0-4231-877f-e5638acd41ad)**
 
 投資第一堂課：價值一億元投資人生
 
