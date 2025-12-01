@@ -2,4 +2,4 @@
 - 购买机票可免费获得高达 S$1,000,000 的旅游保险
 - 每月最低消费要求: 无
 - 里程奖励上限: 无
-- 年费: 主卡 S$397.85 支付之后每年可免费入住 Hilton, DoubleTree, Hilton Garden Inn or Conrad 亚太地区酒店一晚 (已可以赚回大部分的年费), 附属卡 S$81.75 (第一年豁免).
+- 年费: 主卡 S$397.85 支付之后每年可免费入住 Hilton, DoubleTree, Hilton Garden Inn or Conrad 亚太地区酒店一晚 (已可以赚回大部分的年费).
