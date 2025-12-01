@@ -18,4 +18,4 @@
 •	在加拿大： 在加拿大的還是建議 換美金 直接買QQQ 或加幣 投資 QQC.TO 或 QQC-F.TO和HXQ.TO
 •	Horizons NASDAQ-100 Index ETF (HXQ.TO) （看起來比較好）* 在巴西：納斯達克指數基金 NASD11
 •	在英國：建議iShares VII Public Limited Company - iShares NASDAQ 100 UCITS ETF (CNDX.L)
-•	在歐洲： EQQQ(Invesco EQQQ NASDAQ-100 UCITS ETF Dist)、DEGIRO https://www.degiro.co.uk。北歐大部分人用的證券商是：NORDNET
+•	在歐洲： EQQQ(Invesco EQQQ NASDAQ-100 UCITS ETF Dist)、DEGIRO
