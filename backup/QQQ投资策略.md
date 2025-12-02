@@ -19,3 +19,5 @@
 •	Horizons NASDAQ-100 Index ETF (HXQ.TO) （看起來比較好）* 在巴西：納斯達克指數基金 NASD11
 •	在英國：建議iShares VII Public Limited Company - iShares NASDAQ 100 UCITS ETF (CNDX.L)
 •	在歐洲： EQQQ(Invesco EQQQ NASDAQ-100 UCITS ETF Dist)、DEGIRO
+
+#這篇文章出自於：[https://youtube.com/@clec168?si=UuyI1A7PsJB6RX2s](https://youtube.com/@clec168?si=UuyI1A7PsJB6RX2s)
