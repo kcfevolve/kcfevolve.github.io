@@ -20,4 +20,4 @@
 •	在英國：建議iShares VII Public Limited Company - iShares NASDAQ 100 UCITS ETF (CNDX.L)
 •	在歐洲： EQQQ(Invesco EQQQ NASDAQ-100 UCITS ETF Dist)、DEGIRO
 
-這篇文章出自於：[https://youtube.com/@clec168?si=UuyI1A7PsJB6RX2s](https://youtube.com/@clec168?si=UuyI1A7PsJB6RX2s)
+這篇文章出自於：[CLEC投資理財頻道](https://youtube.com/@clec168?si=bME7hJoQgmEzIBJI)
