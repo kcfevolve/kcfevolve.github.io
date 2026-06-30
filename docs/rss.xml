@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>聰明的投資組合</title><link>https://kcfevolve.github.io</link><description>QQQ一組聰明的組合。</description><copyright>聰明的投資組合</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/224014623?u=d33d57c0c595eb0c7cbe3df1a9769703e0546d54&amp;v=4</url><title>avatar</title><link>https://kcfevolve.github.io</link></image><lastBuildDate>Tue, 02 Dec 2025 03:56:01 +0000</lastBuildDate><managingEditor>聰明的投資組合</managingEditor><ttl>60</ttl><webMaster>聰明的投資組合</webMaster><item><title>QQQ投资策略</title><link>https://kcfevolve.github.io/post/QQQ-tou-zi-ce-lve.html</link><description>**不要買保險、不要買年金、不要買債券![image](https://github.com/user-attachments/assets/5ff30fcb-71a0-4231-877f-e5638acd41ad)**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>聰明的投資組合</title><link>https://kcfevolve.github.io</link><description>QQQ一組聰明的組合。</description><copyright>聰明的投資組合</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/224014623?u=d33d57c0c595eb0c7cbe3df1a9769703e0546d54&amp;v=4</url><title>avatar</title><link>https://kcfevolve.github.io</link></image><lastBuildDate>Tue, 30 Jun 2026 09:18:52 +0000</lastBuildDate><managingEditor>聰明的投資組合</managingEditor><ttl>60</ttl><webMaster>聰明的投資組合</webMaster><item><title>Sweden and are a Swedish tax resident, buy the U.S.-listed SPY ETF</title><link>https://kcfevolve.github.io/post/Sweden%20and%20are%20a%20Swedish%20tax%20resident%2C%20buy%20the%20U.S.-listed%20SPY%20ETF.html</link><description>&lt;p data-start='0' data-end='157' class='PDq2pG_selectionAnchorContainer'&gt;If you live in Sweden and are a Swedish tax resident, it's generally &lt;strong data-start='69' data-end='119'&gt;not recommended to buy the U.S.-listed SPY ETF&lt;/strong&gt; directly. There are two main reasons:&lt;span aria-hidden='true' class='PDq2pG_selectionAnchor'&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol data-start='159' data-end='515'&gt;
+&lt;li data-section-id='zsh2ix' data-start='159' data-end='352'&gt;
+&lt;strong data-start='162' data-end='184'&gt;PRIIPs regulations&lt;/strong&gt;: Most retail investors in Europe cannot buy U.S.-domiciled ETFs such as SPDR S&amp;amp;P 500 ETF Trust because they do not provide the required Key Information Document (KID).
+&lt;/li&gt;
+&lt;li data-section-id='61hjb2' data-start='353' data-end='515'&gt;
+&lt;strong data-start='356' data-end='375'&gt;U.S. estate tax&lt;/strong&gt;: Holding U.S.-domiciled ETFs may expose non-U.S. investors to U.S. estate tax if the value of their U.S. assets exceeds certain thresholds.
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p data-start='517' data-end='689'&gt;Instead, most investors in Sweden choose &lt;strong data-start='558' data-end='572'&gt;UCITS ETFs&lt;/strong&gt;, which are European-domiciled funds that track the same S&amp;amp;P 500 Index while being more tax- and regulation-friendly.&lt;/p&gt;
+&lt;p data-start='691' data-end='733'&gt;Here are some of the most popular options:&lt;/p&gt;
+&lt;div class='TyagGW_tableContainer'&gt;&lt;div tabindex='-1' class='group TyagGW_tableWrapper flex flex-col-reverse w-fit'&gt;
+ETF | Ticker | TER | Notes
+-- | -- | -- | --
+iShares Core S&amp;P 500 UCITS ETF | SXR8 (EUR) / CSPX (USD) | 0.07% | One of the most popular; accumulating (reinvests dividends).
+Vanguard S&amp;P 500 UCITS ETF | VUAA | 0.07% | Vanguard's accumulating version.
+SPDR S&amp;P 500 UCITS ETF | SPYL | 0.03% | Very low expense ratio.
+Invesco S&amp;P 500 UCITS ETF | SPXS | ~0.05% | Another low-cost alternative.
+
+&lt;/div&gt;&lt;/div&gt;
+&lt;p data-start='1158' data-end='1334'&gt;If you're investing through a Swedish broker such as &lt;span class='hover:entity-accent entity-underline inline cursor-pointer align-baseline'&gt;&lt;span class='whitespace-normal'&gt;Avanza&lt;/span&gt;&lt;/span&gt; or &lt;span class='hover:entity-accent entity-underline inline cursor-pointer align-baseline'&gt;&lt;span class='whitespace-normal'&gt;Nordnet&lt;/span&gt;&lt;/span&gt;, you should have access to these UCITS ETFs.&lt;/p&gt;
+&lt;h3 data-section-id='vy2chn' data-start='1336' data-end='1357'&gt;My recommendation&lt;/h3&gt;
+&lt;p data-start='1359' data-end='1466'&gt;If you're investing for the long term (10+ years) and don't need dividend income, I'd suggest one of these:&lt;/p&gt;
+&lt;ul data-start='1468' data-end='1614'&gt;
+&lt;li data-section-id='4na7st' data-start='1468' data-end='1503'&gt;
+&lt;strong data-start='1470' data-end='1478'&gt;VUAA&lt;/strong&gt; – Vanguard, accumulating
+&lt;/li&gt;
+&lt;li data-section-id='17agz4z' data-start='1504' data-end='1545'&gt;
+&lt;strong data-start='1506' data-end='1521'&gt;SXR8 / CSPX&lt;/strong&gt; – iShares, accumulating
+&lt;/li&gt;
+&lt;li data-section-id='uwagtq' data-start='1546' data-end='1614'&gt;
+&lt;strong data-start='1548' data-end='1556'&gt;SPYL&lt;/strong&gt; – Lowest expense ratio among the major S&amp;amp;P 500 UCITS ETFs
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-start='1616' data-end='1708'&gt;Accumulating ETFs automatically reinvest dividends, which can improve long-term compounding.&lt;/p&gt;
+&lt;h3 data-section-id='1pkm4f7' data-start='1710' data-end='1744'&gt;If you're using an ISK account&lt;/h3&gt;
+&lt;p data-start='1746' data-end='1837'&gt;Many investors in Sweden hold these ETFs inside an &lt;strong data-start='1797' data-end='1828'&gt;ISK (Investeringssparkonto)&lt;/strong&gt; because:&lt;/p&gt;
+&lt;ul data-start='1838' data-end='1988'&gt;
+&lt;li data-section-id='n80jss' data-start='1838' data-end='1900'&gt;
+You don't need to calculate capital gains tax on every sale.
+&lt;/li&gt;
+&lt;li data-section-id='1nc92x4' data-start='1901' data-end='1931'&gt;
+The tax reporting is simple.
+&lt;/li&gt;
+&lt;li data-section-id='1cde1t8' data-start='1932' data-end='1988'&gt;
+It's generally very efficient for long-term investing.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-start='1990' data-end='2139' data-is-last-node='' data-is-only-node=''&gt;An &lt;strong data-start='1993' data-end='2051'&gt;ISK account combined with a low-cost UCITS S&amp;amp;P 500 ETF&lt;/strong&gt; (such as VUAA or SXR8) is a common long-term investment strategy for Swedish residents.&lt;/p&gt;。</description><guid isPermaLink="true">https://kcfevolve.github.io/post/Sweden%20and%20are%20a%20Swedish%20tax%20resident%2C%20buy%20the%20U.S.-listed%20SPY%20ETF.html</guid><pubDate>Tue, 30 Jun 2026 09:16:06 +0000</pubDate></item><item><title>投资S&amp;P500在瑞典有什么选择</title><link>https://kcfevolve.github.io/post/tou-zi-S%26P500-zai-rui-dian-you-shen-me-xuan-ze.html</link><description>&lt;div class='text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)'&gt;&lt;div data-conversation-screenshot-content='' class='[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn'&gt;&lt;div class='flex max-w-full flex-col gap-4 grow'&gt;&lt;div data-message-author-role='assistant' data-message-id='dc20b2a2-9dd5-4cde-b88c-679eeea8bf02' dir='auto' data-message-model-slug='gpt-5-5' class='min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;amp;]:mt-1'&gt;&lt;div class='flex w-full flex-col gap-1 empty:hidden'&gt;&lt;div class='markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling'&gt;&lt;p data-start='0' data-end='70' class='PDq2pG_selectionAnchorContainer'&gt;如果你住在瑞典（税务居民），想投资美国标普500指数（S&amp;amp;P 500），&lt;strong data-start='36' data-end='61'&gt;一般不建议直接买美国上市的 SPY ETF&lt;/strong&gt;，原因主要有两点：&lt;span aria-hidden='true' class='PDq2pG_selectionAnchor'&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol data-start='72' data-end='193'&gt;
+&lt;li data-section-id='10kfymh' data-start='72' data-end='142'&gt;
+&lt;strong data-start='75' data-end='91'&gt;欧洲法规（PRIIPs）&lt;/strong&gt;：大部分欧洲零售投资者不能直接购买美国注册ETF，例如 SPDR S&amp;amp;P 500 ETF Trust。</description><guid isPermaLink="true">https://kcfevolve.github.io/post/tou-zi-S%26P500-zai-rui-dian-you-shen-me-xuan-ze.html</guid><pubDate>Tue, 30 Jun 2026 08:59:33 +0000</pubDate></item><item><title>QQQ投资策略</title><link>https://kcfevolve.github.io/post/QQQ-tou-zi-ce-lve.html</link><description>**不要買保險、不要買年金、不要買債券![image](https://github.com/user-attachments/assets/5ff30fcb-71a0-4231-877f-e5638acd41ad)**
 
 投資第一堂課：價值一億元投資人生
 
